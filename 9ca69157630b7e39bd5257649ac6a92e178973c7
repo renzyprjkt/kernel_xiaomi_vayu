@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "864b33ec_a042079c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-10-30T18:46:24Z",
+      "side": 1,
+      "message": "This chain fixes boot on 15 without 405071. If AOSP takes a while before they look at it/merge it on main, this works too.",
+      "revId": "9ca69157630b7e39bd5257649ac6a92e178973c7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c05b9cf_02692b6a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-11-04T20:13:35Z",
+      "side": 1,
+      "message": "../scripts/mkcompile_h: line 87: -v: command not found I get that towards the end which is why I didn\u0027t push these patches for qcom_sm8150",
+      "revId": "c2fb9d6d14252ad314f8c36334025ea0497387a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

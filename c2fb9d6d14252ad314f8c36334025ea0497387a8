@@ -16,6 +16,23 @@
       "message": "../scripts/mkcompile_h: line 87: -v: command not found I get that towards the end which is why I didn\u0027t push these patches for qcom_sm8150",
       "revId": "c2fb9d6d14252ad314f8c36334025ea0497387a8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0df228be_8f3f832e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34003
+      },
+      "writtenOn": "2024-11-05T01:29:45Z",
+      "side": 1,
+      "message": "Putting on hold to fix the likely $(LD) issue for good. Would require significantly expanding the chain.",
+      "revId": "c2fb9d6d14252ad314f8c36334025ea0497387a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

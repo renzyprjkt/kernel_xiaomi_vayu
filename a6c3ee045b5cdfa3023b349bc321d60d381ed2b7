@@ -33,6 +33,24 @@
       "message": "After merging, does it boot without bpf backports ? https://review.lineageos.org/c/LineageOS/android_kernel_qcom_sm8150/+/407126",
       "revId": "a6c3ee045b5cdfa3023b349bc321d60d381ed2b7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c1177d2e_05df0ee0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-11-09T03:28:05Z",
+      "side": 1,
+      "message": "this merge has nothing to do with the BPF backports. read the comments on the change you linked.",
+      "parentUuid": "71456ee6_5314fd07",
+      "revId": "a6c3ee045b5cdfa3023b349bc321d60d381ed2b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

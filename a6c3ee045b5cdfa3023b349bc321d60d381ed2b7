@@ -16,6 +16,23 @@
       "message": "Chain is fine on xiaomi-sm6150",
       "revId": "a6c3ee045b5cdfa3023b349bc321d60d381ed2b7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "71456ee6_5314fd07",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29669
+      },
+      "writtenOn": "2024-11-09T03:16:16Z",
+      "side": 1,
+      "message": "After merging, does it boot without bpf backports ? https://review.lineageos.org/c/LineageOS/android_kernel_qcom_sm8150/+/407126",
+      "revId": "a6c3ee045b5cdfa3023b349bc321d60d381ed2b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e0bf1cc6_b0fd0d28",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9760
+      },
+      "writtenOn": "2024-12-14T06:26:56Z",
+      "side": 1,
+      "message": "Reverted\nhttps://android-review.googlesource.com/q/special+case+ignorable",
+      "revId": "734054172a8192bf61effb1fdb2f17178e8fd8ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

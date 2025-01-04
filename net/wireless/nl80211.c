@@ -8420,6 +8420,8 @@ static int nl80211_crypto_settings(struct cfg80211_registered_device *rdev,
 	if (info->attrs[NL80211_ATTR_WPA_VERSIONS]) {
 		settings->wpa_versions =
 			nla_get_u32(info->attrs[NL80211_ATTR_WPA_VERSIONS]);
+		if (settings->wpa_versions == NL80211_WPA_VERSION_3)
+			settings->wpa_versions = NL80211_WPA_VERSION_2;
 		if (!nl80211_valid_wpa_versions(settings->wpa_versions))
 			return -EINVAL;
 	}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6aa34fe5_d581f46d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9760
+      },
+      "writtenOn": "2025-02-06T15:06:50Z",
+      "side": 1,
+      "message": "CVE-2024-53197\nhttps://mailweb.openeuler.org/hyperkitty/list/kernel@openeuler.org/thread/VH3UKCG4FZ5OQOXJT2KEVGXTDT2PHAKE/",
+      "revId": "84373232364903460f7260846a2bd68c8f043b90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

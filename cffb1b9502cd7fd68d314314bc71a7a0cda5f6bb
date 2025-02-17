@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "79095150_9184bcc7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-02-17T15:39:21Z",
+      "side": 1,
+      "message": "As said at https://review.lineageos.org/c/LineageOS/android_kernel_xiaomi_sm6150/+/418682/comment/6993d2f8_46c34e9e/ could either change that or pick from pixel 4.14 tree but this should be in qcom_sm8150",
+      "revId": "cffb1b9502cd7fd68d314314bc71a7a0cda5f6bb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

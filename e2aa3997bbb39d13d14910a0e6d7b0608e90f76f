@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0eb802fc_5a252bdd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-02-17T20:31:58Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this explain what and why it\u0027s actually doing in the commit message?",
+      "revId": "e2aa3997bbb39d13d14910a0e6d7b0608e90f76f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

@@ -16,6 +16,23 @@
       "message": "Fixes compilation after: I63128831127f52bd233f1ce99650ccaceb25bf5",
       "revId": "45eb1462ac1935c9d7668a8e121bcc11d636c3db",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8219911b_22db0b7d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29080
+      },
+      "writtenOn": "2025-03-29T19:53:57Z",
+      "side": 1,
+      "message": "imo if we want uclamp, then we should revert all Qualcomm\u0027s and old Google\u0027s changes and bring up it over a clean scheduler, otherwise these changes may conflict with unknown consequences",
+      "revId": "45eb1462ac1935c9d7668a8e121bcc11d636c3db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

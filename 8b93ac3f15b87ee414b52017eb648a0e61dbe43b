@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f35bdb79_37948e9a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29080
+      },
+      "writtenOn": "2025-03-29T19:48:07Z",
+      "side": 1,
+      "message": "Does it make any difference with I4929e64d53a0bc865b12a27cce37520be52c9744? This change was initially done because of audio-kernel and we have a proper fix from Google for this issue",
+      "revId": "8b93ac3f15b87ee414b52017eb648a0e61dbe43b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

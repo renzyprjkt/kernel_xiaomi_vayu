@@ -16,6 +16,24 @@
       "message": "This kernel tree doesn\u0027t have zstd compression support in incfs",
       "revId": "b3aab00ec08e9289a97ee68112f8d0ed3660d96c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "864973a9_51d7afb0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-05-31T15:34:00Z",
+      "side": 1,
+      "message": "It\u0027s just the commit message being misleading in this case, this just enables zstd support in kernel",
+      "parentUuid": "63cb8b06_1249d1e2",
+      "revId": "b3aab00ec08e9289a97ee68112f8d0ed3660d96c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

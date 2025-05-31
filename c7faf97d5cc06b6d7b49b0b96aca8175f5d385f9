@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c2573579_aad6d0f5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2025-05-31T20:49:11Z",
+      "side": 1,
+      "message": "sm8150-v2.dtsi:51.1-9 Label or path tmc_etr not found",
+      "revId": "c7faf97d5cc06b6d7b49b0b96aca8175f5d385f9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

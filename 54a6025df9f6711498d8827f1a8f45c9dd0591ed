@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd0fdb3d_72bcdbce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29080
+      },
+      "writtenOn": "2025-05-31T15:01:56Z",
+      "side": 1,
+      "message": "Some sdmmagpie configs are needed on atoll\n\nI\u0027ll check later",
+      "revId": "54a6025df9f6711498d8827f1a8f45c9dd0591ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

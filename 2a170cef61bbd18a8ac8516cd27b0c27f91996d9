@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "68532ae2_2067eb07",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29080
+      },
+      "writtenOn": "2025-06-01T12:34:55Z",
+      "side": 1,
+      "message": "Better to pick I40ad526b2e595c84b122b0308d967a3874564252 + I49821914df887760e90295d91fa54a2ebda8240b",
+      "revId": "2a170cef61bbd18a8ac8516cd27b0c27f91996d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

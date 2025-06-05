@@ -16,6 +16,24 @@
       "message": "https://github.com/LineageOS/android_kernel_google_coral/commit/8209f8428e3d4fe0d09306aa5f9d172cf74b8477\n\nfyi seems like google didn\u0027t like this",
       "revId": "b1fc569e370c0c7af02a3bea10d8f4d024ae523d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d03202f5_a0be0a9f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-06-05T13:50:31Z",
+      "side": 1,
+      "message": "Well it\u0027s already enabled on sm6150 and trinket, and when I tried to remove it other people complained, so I\u0027m just aligning all supported SoCs",
+      "parentUuid": "bcd2ba22_f9764c46",
+      "revId": "b1fc569e370c0c7af02a3bea10d8f4d024ae523d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

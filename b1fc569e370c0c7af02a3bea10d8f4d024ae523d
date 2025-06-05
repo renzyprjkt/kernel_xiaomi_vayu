@@ -52,6 +52,23 @@
       "parentUuid": "d03202f5_a0be0a9f",
       "revId": "b1fc569e370c0c7af02a3bea10d8f4d024ae523d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b96ee6e_500f1c98",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-06-05T14:07:11Z",
+      "side": 1,
+      "message": "For reference https://review.lineageos.org/c/LineageOS/android_kernel_qcom_sm8150/+/432185",
+      "revId": "b1fc569e370c0c7af02a3bea10d8f4d024ae523d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

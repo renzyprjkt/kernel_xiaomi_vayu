@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "18115978_16ab4244",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-07-02T09:37:32Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_kernel_qcom_sm8250/commit/bd6f2fd5a1d52198468c5cdc3c2472362dff5aaa is not yet in 4.14 so the patch is a bit smaller",
+      "revId": "b2c63053ef866dee22281b76c85ebc1eea24533d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

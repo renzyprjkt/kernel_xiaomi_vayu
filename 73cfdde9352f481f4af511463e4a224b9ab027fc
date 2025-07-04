@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96bb433f_0e699422",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-07-04T09:49:30Z",
+      "side": 1,
+      "message": "fixes crashes to memorydump during idle when usb is connected on TP1803",
+      "revId": "73cfdde9352f481f4af511463e4a224b9ab027fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

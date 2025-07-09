@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f77d14ec_d3d833bd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-07-09T05:20:32Z",
+      "side": 1,
+      "message": "the chain seems fine on sweet",
+      "revId": "3efcfb8eaffae68fa8eb1f4b29ee3b98ab8c7ff2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

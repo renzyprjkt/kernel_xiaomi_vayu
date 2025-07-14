@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6abac74e_39dad685",
+        "filename": "kernel/bpf/sockmap.c",
+        "patchSetId": 8
+      },
+      "lineNbr": 456,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-07-14T04:38:39Z",
+      "side": 1,
+      "message": "Squash in https://review.lineageos.org/c/LineageOS/android_kernel_qcom_sm8150/+/434865",
+      "revId": "d60ebccc9062354c93b9ea0a71c80a091fec8369",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "464adc2c_dc032ca0",
+        "filename": "kernel/bpf/sockmap.c",
+        "patchSetId": 8
+      },
+      "lineNbr": 525,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-07-14T04:38:39Z",
+      "side": 1,
+      "message": "Squash in https://review.lineageos.org/c/LineageOS/android_kernel_qcom_sm8150/+/434865",
+      "revId": "d60ebccc9062354c93b9ea0a71c80a091fec8369",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "471905b4_2c947f69",
+        "filename": "kernel/bpf/sockmap.c",
+        "patchSetId": 8
+      },
+      "lineNbr": 690,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-07-14T04:38:39Z",
+      "side": 1,
+      "message": "Squash in https://review.lineageos.org/c/LineageOS/android_kernel_qcom_sm8150/+/434865",
+      "revId": "d60ebccc9062354c93b9ea0a71c80a091fec8369",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8abdc1d4_77372727",
+        "filename": "kernel/bpf/sockmap.c",
+        "patchSetId": 8
+      },
+      "lineNbr": 1576,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-07-14T04:38:39Z",
+      "side": 1,
+      "message": "Squash in https://review.lineageos.org/c/LineageOS/android_kernel_qcom_sm8150/+/434982",
+      "revId": "d60ebccc9062354c93b9ea0a71c80a091fec8369",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

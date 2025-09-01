@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "683ef2c0_b260c2b5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22465
+      },
+      "writtenOn": "2025-09-01T20:02:46Z",
+      "side": 1,
+      "message": "This makes VINTF checks to pass with patchset 2 of 433455",
+      "revId": "340f70c47c0e31adfc503a456c77d4fbaac507e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

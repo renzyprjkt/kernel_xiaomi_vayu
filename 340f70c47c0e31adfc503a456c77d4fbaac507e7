@@ -33,6 +33,23 @@
       "message": "This should already be fixed by CONFIG_GKI_HACKS_TO_FIX\u003dy which exists in defconfigs",
       "revId": "340f70c47c0e31adfc503a456c77d4fbaac507e7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c4bd50f_6acbb6b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-01T21:51:43Z",
+      "side": 1,
+      "message": "I can confirm ginkgo builds and passes vintf checks just fine without this",
+      "revId": "340f70c47c0e31adfc503a456c77d4fbaac507e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

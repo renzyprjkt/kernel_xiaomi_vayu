@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7126ab61_7535db7e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6360
+      },
+      "writtenOn": "2025-10-02T19:19:38Z",
+      "side": 1,
+      "message": "../../../../../../kernel/xiaomi/sm8150/drivers/media/rc/lirc_dev.c:119:33: error: use of undeclared identifier \u0027EPOLLIN\u0027\n  119 |                         wake_up_poll(\u0026fh-\u003ewait_poll, EPOLLIN | EPOLLRDNORM);\n\n\nPatch like this in 5.4 is missing\nhttps://github.com/LineageOS/android_kernel_oneplus_sm8350/commit/e78cd95bebd94ede71285722f5bf2464bfa4c599",
+      "revId": "b16ad3a911d7282edfa4e013cb62452005984df2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

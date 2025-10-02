@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "91322d8a_5a373709",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-02T13:17:49Z",
+      "side": 1,
+      "message": "Did something get messed up on the way? https://review.lineageos.org/c/LineageOS/android_kernel_qcom_sm8150/+/437246/8/drivers/media/platform/msm/sde/rotator/sde_rotator_trace.h",
+      "revId": "16dc763ee5988ab58c175a86a888578a01f6132a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

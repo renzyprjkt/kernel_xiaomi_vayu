@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d64249b_81d6561a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6360
+      },
+      "writtenOn": "2025-10-02T08:21:25Z",
+      "side": 1,
+      "message": "Also needs fix here\nhttps://github.com/crdroidandroid/android_kernel_xiaomi_sm6150/commit/f96e01dbf24030b808b4e2071b6e0bc457badcfc",
+      "revId": "d159994da857046d25ce097b223e2633ef4b96f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

@@ -33,6 +33,24 @@
       "message": "Actually it\u0027s a different function, so this commit should be squashed to the original fix",
       "revId": "16dc763ee5988ab58c175a86a888578a01f6132a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5b7179e3_6346a444",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2025-10-02T13:33:48Z",
+      "side": 1,
+      "message": "I can take care of that after work today, unless somebody wants to step up and take care of it prior",
+      "parentUuid": "c92617c9_f7b3620a",
+      "revId": "16dc763ee5988ab58c175a86a888578a01f6132a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
